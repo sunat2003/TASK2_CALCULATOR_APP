@@ -1,5 +1,5 @@
-btn=document.querySelectorAll(".btn");  //access all the buttons using DOM manupulation
-screenInt=document.querySelector(".screen-int")//access calculator screen
+let btn=document.querySelectorAll(".btn");  //access all the buttons using DOM manupulation
+let screenInt=document.querySelector(".screen-int")//access calculator screen
 
 
 //this function will provide the functionality to the each buttons
